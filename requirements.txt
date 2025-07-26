@@ -4,4 +4,3 @@ textstat
 PyMuPDF
 python-dotenv
 requests
-frontend
