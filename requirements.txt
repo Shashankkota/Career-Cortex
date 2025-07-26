@@ -3,4 +3,7 @@ fitz
 python-telegram-bot==20.6
 pdfplumber==0.10.2
 requests==2.31.0
+textstat
+spacy
+dotenv
 
