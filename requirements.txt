@@ -1,6 +1,6 @@
 python-telegram-bot==20.6
-spacy
-textstat
-PyMuPDF
-python-dotenv
-requests
+PyMuPDF==1.24.0
+requests==2.31.0
+spacy==3.7.2
+textstat==0.7.3
+python-dotenv==1.0.1
