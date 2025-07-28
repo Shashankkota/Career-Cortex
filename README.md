@@ -4,8 +4,8 @@
 
 ![Python Version](https://img.shields.io/badge/Python-3.11-blue.svg)
 ![Libraries](https://img.shields.io/badge/Libraries-spaCy%20%7C%20Telegram-orange.svg)
-![Deployment](https://img.shields.io/badge/Deployed%20on-Fly.io-lightgrey.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Deployment](https://img.shields.io/badge/Deployed%20on-Replit-lightgrey.svg)
+
 
 > A sophisticated Telegram bot that functions as a personal AI career coach — delivering elite-level ATS scoring and detailed, actionable feedback to perfect your resume.
 
