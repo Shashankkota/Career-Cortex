@@ -1,6 +1,4 @@
-Here is your content rewritten professionally and formatted cleanly for a **README.md** or project documentation page:
 
----
 
 # 🚀 Career Cortex 🤖 – An Elite AI Resume Coach
 
