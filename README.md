@@ -72,8 +72,8 @@ Follow these instructions to set up the project locally for development/testing:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/career-cortex.git
-   cd career-cortex
+   git clone https://github.com/Shashankkota/Resume-Screening-Bot.git
+   cd Resume-Screening-Bot
    ```
 
 2. **Set up Virtual Environment:**
