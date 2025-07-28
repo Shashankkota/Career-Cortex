@@ -94,8 +94,3 @@ Follow these instructions to set up the project locally for development/testing:
 Start the bot in development mode (using polling):
 
 python bot.py
-```
-
----
-
-Let me know if you want a **README.md download file**, a **deployment guide for Fly.io**, or a **live webhook setup walkthrough**.
