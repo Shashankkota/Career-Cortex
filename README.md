@@ -50,7 +50,7 @@ Unlike simple keyword checkers, this intelligent coach applies an **expert-infor
 | **NLP & Analysis** | `spaCy`, `textstat`                         |
 | **PDF Parsing**    | `PyMuPDF`                                   |
 | **Generative AI**  | Groq API (Llama3 8B)                        |
-| **Deployment**     | Replit(or any webhook-ready cloud) |
+| **Deployment**     | Replit
 
 ---
 
